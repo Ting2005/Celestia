@@ -9,7 +9,7 @@
       <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
     </a>
     <a href="https://twitter.com/Ting_0x0">
-      <img alt="Twitter" src="https://img.shields.io/twitter/url/https/twitter.com/Ting_0x0.svg?style=social&label=Follow Me">
+      <img alt="Twitter" src="https://img.shields.io/twitter/url/https/twitter.com/Ting_0x0.svg?style=social&label=Follow Ting">
     </a>
   </p>
  
