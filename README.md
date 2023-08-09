@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Celestia" src="https://raw.githubusercontent.com/celestiaorg/celestia.org/c50b35401482cd0a65821e7a7cb95d06514b13d4/src/images/celestia-logo.svg" width="200" >
+  <img alt="Celestia" src="https://raw.githubusercontent.com/celestiaorg/celestia.org/c50b35401482cd0a65821e7a7cb95d06514b13d4/src/images/celestia-logo.svg" width="300" >
  
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
