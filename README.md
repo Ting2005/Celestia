@@ -1,6 +1,6 @@
 <div align="center">
   <img alt="Celestia" src="https://raw.githubusercontent.com/celestiaorg/celestia.org/c50b35401482cd0a65821e7a7cb95d06514b13d4/src/images/celestia-logo.svg" width="400" >
-  <h1>  Ting_0x0 </h1>
+ 
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
       <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
@@ -26,5 +26,5 @@ Celestia is the first data availability (DA) and consensus layer for modular blo
 * Status: testnet
 * ## Resources me provide ## 
 *  [Chinese blog](https://celestiachinese.substack.com/)
-*  [unofficial media](https://twitter.com/celestiachinese)
+*  [Unofficial media](https://twitter.com/celestiachinese)
 *  [Node Installation Tutorial](https://github.com/Ting2005/Celestia/blob/main/validator-Install-cn.md)
