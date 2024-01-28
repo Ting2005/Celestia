@@ -25,6 +25,4 @@ Celestia is the first data availability (DA) and consensus layer for modular blo
 * Token: TIA
 * Status: testnet
 * ## Resources me provide ## 
-*  [Chinese blog](https://celestiachinese.substack.com/)
-*  [Unofficial media](https://twitter.com/celestiachinese)
 *  [Node Installation Tutorial](https://github.com/Ting2005/Celestia/blob/main/validator-Install-cn.md)
